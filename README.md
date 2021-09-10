@@ -60,7 +60,7 @@ Here's why:
   <br />
   <br />
 
-<img src="../localchia/assets/localchia-code.png" alt="Project">
+<img src="assets/localchia-code.png" alt="Project">
 
 ### Built With
 
