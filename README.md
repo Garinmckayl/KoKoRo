@@ -47,8 +47,6 @@ Powering collective actions with an economy of sustainable abundance‏‏‎.
 
 ## About The Project
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/tnc9eutCN8qgRJBdz5J6P"></iframe>
-
 “We are in the beginning of a… new digital age. It would be wrong to simply extend old industrial thinking into the future.” - Nils Elmark
 Post-boomers face mounting issues. Climate change causes extreme weather patterns, growing financial inequities, limited opportunities, rapid paradigm shifts coupled with an overdependence on imperfect technology and artificial intelligence to solve our growing problems.
 
@@ -59,6 +57,10 @@ Here's why:
 - Computing power was decentralized with the iphone and gave access to information to everybody.
 - Crowdsourcing decentralized funding and gave access to funding and the ability to invest to everybody.
 - Chia decentralized the smart contract into each of it’s coin, this decentralizes currency so that everybody has the ability to create the rules on its use. People can imbue intentions into Money.
+  <br />
+  <br />
+
+<img src="../localchia/assets/localchia-code.png" alt="Project">
 
 ### Built With
 
