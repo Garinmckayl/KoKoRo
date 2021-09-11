@@ -4,11 +4,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://localchia.vercel.app/">
+  <a href="https://kokoro.vercel.app/">
     <img src="https://localchia.vercel.app/img/logo.png" alt="Logo" width="" height="80">
   </a>
 
-  <h3 align="center">LocalChia</h3>
+  <h3 align="center">KoKoRo</h3>
 
   <p align="center">
 Powering collective actions with an economy of sustainable abundance‏‏‎.
@@ -47,7 +47,7 @@ Powering collective actions with an economy of sustainable abundance‏‏‎.
 
 ## About The Project
 
-“We are in the beginning of a… new digital age. It would be wrong to simply extend old industrial thinking into the future.” - Nils Elmark
+“We are in the beginning of a… new digital age. It would be wrong to simply extend old industrial thinking into the future.” - Nils Elmark  
 Post-boomers face mounting issues. Climate change causes extreme weather patterns, growing financial inequities, limited opportunities, rapid paradigm shifts coupled with an overdependence on imperfect technology and artificial intelligence to solve our growing problems.
 
 In this new age, we need to power human grassroots actions to be part of the solution. Human intelligence is where base creativity lies. We can try to digitize it, but we are running out of time.
@@ -86,22 +86,22 @@ This is an example of how to list things you need to use the software and how to
 1. Install Chia Dev Tools [https://github.com/Chia-Network/chia-dev-tools](https://github.com/Chia-Network/chia-dev-tools)
 2. Clone the repo
    ```sh
-   git clone https://github.com/Garinmckayl/localchia.git
+   git clone https://github.com/Garinmckayl/KoKoRo.git
    ```
-3. cd in to localchia directory
+3. cd in to kokoro directory
    ```sh
-   cd localchia
+   cd kokoro
    ```
 4. run the puzzle
    ```sh
-   cdv clsp build .\localchia.clsp
+   cdv clsp build .\kokoro.clsp
    ```
 
 <!-- ROADMAP -->
 
 ## Roadmap
 
-See the [open issues](https://github.com/Garinmckayl/localchia/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Garinmckayl/KoKoRo/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -127,13 +127,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Natnael Zeleke - [@natnaelgetenew](https://twitter.com/natnaelgetenew) - natnael.getenew@addissoftware.com
 
-Project Link: [https://github.com/Garinmckayl/localchia](https://github.com/Garinmckayl/localchia)
+Project Link: [https://github.com/Garinmckayl/KoKoRo](https://github.com/Garinmckayl/KoKoRo)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/Garinmckayl/localchia/blob/master/LICENSE.txt
+[license-url]: https://github.com/Garinmckayl/KoKoRo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/natnaelgetenew/
 [product-screenshot]: images/screenshot.png
