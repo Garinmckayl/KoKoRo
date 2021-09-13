@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://kokoro.vercel.app/">
-    <img src="https://localchia.vercel.app/img/logo.png" alt="Logo" width="" height="80">
+    <img src="https://localchia.vercel.app/img/logo.gif" alt="Logo" width="" height="300">
   </a>
 
   <h3 align="center">KoKoRo</h3>
