@@ -1,5 +1,5 @@
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Devpost | Kokoro 心](https://badges.devpost-shields.com/get-badge?name=Kokoro%20%E5%BF%83&id=kokoro&type=big-logo&style=for-the-badge)](https://devpost.com/software/kokoro)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -65,7 +65,7 @@ Here's why:
 ### Built With
 
 - [chia](https://www.chia.net/download/)
-- - [Chia Dev Tools](https://github.com/Chia-Network/chia-dev-tools)
+- [Chia Dev Tools](https://github.com/Chia-Network/chia-dev-tools)
 - [chialisp](https://chialisp.com/)
 - [python](https://www.python.org/)
 
@@ -134,6 +134,4 @@ Project Link: [https://github.com/Garinmckayl/KoKoRo](https://github.com/Garinmc
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/Garinmckayl/KoKoRo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/natnaelgetenew/
 [product-screenshot]: images/screenshot.png
