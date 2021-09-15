@@ -13,7 +13,7 @@
   <p align="center">
 Powering collective actions with an economy of sustainable abundance‏‏‎.
     <br />
-    <a href="https://natnaelgetenew.typeform.com/to/XHqX91C7"><strong>Request A Demo »</strong></a>
+    <a href="https://medium.com/@theideasbankllc/kokoro-%E5%BF%83-an-improved-defi-64cc0c6b198e"><strong>Read Article »</strong></a>
     <br />
   </p>
 </p>
