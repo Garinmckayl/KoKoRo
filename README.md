@@ -96,6 +96,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    cdv clsp build .\kokoro.clsp
    ```
+   
+![Kokoro GIF](https://s9.gifyu.com/images/kokoro-1.gif)
+
 
 <!-- ROADMAP -->
 
