@@ -113,8 +113,10 @@ See the [open issues](https://github.com/Garinmckayl/KoKoRo/issues) for a list o
 
 ### Browse metaverse and find SMF's offer
 <img src="assets/demo1.png" alt="Project">
+
 ### Upload intention via Kokoro 心
 <img src="assets/demo2.png" alt="Project">
+
 ### Validate offer on dashboard
 <img src="assets/demo3.png" alt="Project">
 
