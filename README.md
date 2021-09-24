@@ -35,6 +35,7 @@ Powering collective actions with an economy of sustainable abundance‏‏‎.
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#demo">App Demo</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -105,6 +106,19 @@ This is an example of how to list things you need to use the software and how to
 ## Roadmap
 
 See the [open issues](https://github.com/Garinmckayl/KoKoRo/issues) for a list of proposed features (and known issues).
+
+<!-- Demo -->
+
+## Demo [Link](https://scavengerhuntkokoro.netlify.app/#/HomePage)
+
+### Browse metaverse and find SMF's offer
+<img src="assets/demo1.png" alt="Project">
+### Upload intention via Kokoro 心
+<img src="assets/demo2.png" alt="Project">
+### Validate offer on dashboard
+<img src="assets/demo3.png" alt="Project">
+
+
 
 <!-- CONTRIBUTING -->
 
